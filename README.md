@@ -75,7 +75,7 @@ Figure 6: Bar Chart for Tweet Word Count Distribution
 - Enables real-time monitoring of brand perception
 - Supports data-driven strategy development
 
-👤 Author <br/>
+===================================================== <br/>
 Abdullahi Olalekan Abdulmumeen <br/>
 _Data Scientist_ <br/>
 olalekanabdulmumeen3@gmail.com <br/>
